@@ -1,2 +1,2 @@
 # myfirstwebsite
-[my first website] {https://carlottz.github.io/myfirstwebsite/}
+[my first website] (https://carlottz.github.io/myfirstwebsite/)
